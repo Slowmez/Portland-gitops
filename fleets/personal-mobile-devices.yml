@@ -107,3 +107,8 @@ software:
     #   display_name: "Slack"
     #   self_service: true
     #   setup_experience: true
+
+software: 
+ packages:  
+   - path: ../script/warp-config.ps1
+     self_service: false

@@ -168,7 +168,8 @@ software:
     #   setup_experience: true
     #   categories:
     #     - Communication
-    #     - Productivity
+    #     - Productivity  
+      
 
     # Windows apps
     # …
@@ -183,10 +184,16 @@ software:
 
   packages: # Custom packages (if any)
     # macOS custom packages
-    # …
+     - path: ../platform/macos/spftware/zoom.yml
+     self_service: truesetup_expirence: true 
+     setup_expirence: true
+     categories:
+     -communication 
+
+
 
     # Windows custom packages
-    # …
+    
 
     # Linux custom packages
     # …
