@@ -22,14 +22,14 @@ org_settings:
     #   • https://fleetdm.com/docs/configuration/yaml-files#org-info
     ###########################################################
     org_name: Slowmez
-    fleet_desktop:
-     transparency_url: https://catoftheday.com
-     webhook_serttings:
-      activities_webhook:
-      enable_activities_webhook: true
-      destination_url: https://webhook.site/371d106c-a381-4c3e-9a22-b65b3d2a9455
+  fleet_desktop:
+    transparency_url: https://catoftheday.com
+  webhook_serttings:
+    activities_webhook:
+    enable_activities_webhook: true
+    destination_url: https://webhook.site/371d106c-a381-4c3e-9a22-b65b3d2a9455
 
-  
+
 
 
   server_settings:
